@@ -62,28 +62,28 @@ public class GrammarDemo {
 //        if((z++==42)&&(y=true))z++;
 //        if((x=false) || (++z==45))z++;
 //        System. out.println("z="+z);
+////
+////        Scanner in1 = new Scanner(System.in);
+////        int i = in1.nextInt();
+////        System.out.println("1 = " + i);
+////
+////
+////        for (int i = 1; i <= 4; i++) {
+////            if (i > 1){
+////                for (int j = 0; j < (2 * i - 1); j++) {
+////                    System.out.print("*\t");
+////                }
+////            }else {
+////                System.out.print("*");
+////            }
+////
+////            System.out.println();
+////        }
+//        //新加改变1111111111111111111111
+////  222222222222222222222222
 //
-//        Scanner in1 = new Scanner(System.in);
-//        int i = in1.nextInt();
-//        System.out.println("1 = " + i);
-//
-//
-//        for (int i = 1; i <= 4; i++) {
-//            if (i > 1){
-//                for (int j = 0; j < (2 * i - 1); j++) {
-//                    System.out.print("*\t");
-//                }
-//            }else {
-//                System.out.print("*");
-//            }
-//
-//            System.out.println();
-//        }
-        //新加改变1111111111111111111111
-//  222222222222222222222222
-
-    //  333333333333333333
-//  4444444444444444444444444
+//    //  333333333333333333
+////  4444444444444444444444444
     }
 
 
